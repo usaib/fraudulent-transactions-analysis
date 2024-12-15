@@ -1,0 +1,13 @@
+boto3
+flask
+gunicorn
+python-dotenv
+# AWS and Data Processing
+pandas
+numpy
+tqdm
+
+# Data Analysis and Visualization
+seaborn
+matplotlib
+scipy

@@ -1,0 +1,9 @@
+bind = "0.0.0.0:80"
+workers = 9
+threads = 4
+worker_class = 'gthread'
+worker_connections = 1000
+timeout = 120
+keepalive = 5
+max_requests = 1000
+max_requests_jitter = 50
